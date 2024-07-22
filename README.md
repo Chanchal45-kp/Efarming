@@ -1,4 +1,8 @@
 # Efarming
+
+Help farmer sell and buy products 
+
+
 how to
 Go to URL “http://localhost/phpmyadmin/”
 click on the databases tab
